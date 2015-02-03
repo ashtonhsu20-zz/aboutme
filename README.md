@@ -1,4 +1,4 @@
-# This repository contains my portfolio work
+# A Repository For My Portfolio Work
 ## CuAppdev
 Cornell App Development is a project team at Cornell University dedicated to mobile IOS app development. Our team is made up of talented designers and developers who collaborate to bring projects to life. Each semester we aim to create a new application that helps the Cornell student population. I worked with several other designers to create a clean user experience by creating multiple screenshots of IOS application pages. The work in the folder contains one interation that I created that conveyed information about dining halls.
 ##Kulture
