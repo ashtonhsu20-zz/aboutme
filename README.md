@@ -1,2 +1,8 @@
-# aboutme
-This repository contains my portfolio work
+# This repository contains my portfolio work
+## CuAppdev
+Cornell App Development is a project team at Cornell University dedicated to mobile IOS app development. Our team is made up of talented designers and developers who collaborate to bring projects to life. Each semester we aim to create a new application that helps the Cornell student population. I worked with several other designers to create a clean user experience by creating multiple screenshots of IOS application pages. The work in the folder contains one interation that I created that conveyed information about dining halls.
+##Kulture
+Kulture is an application designed for a human computer interaction course. Traveling to a new environment that has a different language and cultural norms takes time to adjust to. Kulture's primary  goal was to help immigrants adapt quicker into a foreign environment by connecting them to organizations and events based on the user's their interests. 
+This above link is designed to demonstrate well thought out user experience as well as a solution to helping immigrants adapt quicker into their environment. We had several iterations and took into consideration user feedback and issues. Note the link is only a mockup and does not have a functioning backend
+##Lazy Chef
+Lazy Chef was a mockup application that entered in the Imagine Cup Competition. It was hosted by Microsoft and required participants to create mockups of a Windows 8 themed application that demonstrated smooth user experience. My team created mockups, wireframes, and hero scenario diagrams for a mobile application that demonstrated clean user experience using CSS and Photoshop. 
